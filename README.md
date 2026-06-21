@@ -16,26 +16,26 @@ This project demonstrates the practical application of Artificial Intelligence i
 
 ## 🎯 Objectives
 
-- Detect malicious network activities using Machine Learning.
-- Classify network traffic as normal or suspicious.
-- Provide a simple and interactive web interface for predictions.
-- Improve intrusion detection accuracy using balanced datasets.
-- Demonstrate the integration of AI with cybersecurity solutions.
+-   Detect malicious network activities using Machine Learning.
+-   Classify network traffic as normal or suspicious.
+-   Provide a simple and interactive web interface for predictions.
+-   Improve intrusion detection accuracy using balanced datasets.
+-   Demonstrate the integration of AI with cybersecurity solutions.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **Python 3.10+**
-- **Flask** (Backend Framework)
-- **HTML5**
-- **CSS3**
-- **Pandas**
-- **NumPy**
-- **Scikit-Learn**
-- **Imbalanced-Learn (SMOTE)**
-- **Joblib**
-- **Jupyter Notebook**
+-   **Python 3.10+**
+-   **Flask** (Backend Framework)
+-   **HTML5**
+-   **CSS3**
+-   **Pandas**
+-   **NumPy**
+-   **Scikit-Learn**
+-   **Imbalanced-Learn (SMOTE)**
+-   **Joblib**
+-   **Jupyter Notebook**
 
 ---
 
@@ -45,10 +45,10 @@ The project uses a **Random Forest Classifier** trained on network intrusion dat
 
 ### Features Used
 
-- Flow Duration
-- Total Forward Packets
-- Total Backward Packets
-- Total Length of Forward Packets
+-   Flow Duration
+-   Total Forward Packets
+-   Total Backward Packets
+-   Total Length of Forward Packets
 
 ### Model File
 
@@ -189,31 +189,31 @@ http://127.0.0.1:5000
 
 ## 🚀 Features
 
-- Machine Learning based intrusion detection.
-- Flask-powered web interface.
-- Fast prediction results.
-- Balanced dataset training.
-- User-friendly cybersecurity dashboard.
-- Random Forest classification model.
+-   Machine Learning based intrusion detection.
+-   Flask-powered web interface.
+-   Fast prediction results.
+-   Balanced dataset training.
+-   User-friendly cybersecurity dashboard.
+-   Random Forest classification model.
 
 ---
 
 ## ✅ Advantages
 
-- High classification accuracy.
-- Easy to use interface.
-- Fast prediction speed.
-- Demonstrates AI in cybersecurity.
-- Can be extended for real-time monitoring.
+-   High classification accuracy.
+-   Easy to use interface.
+-   Fast prediction speed.
+-   Demonstrates AI in cybersecurity.
+-   Can be extended for real-time monitoring.
 
 ---
 
 ## ❌ Limitations
 
-- Uses offline dataset.
-- No live packet sniffing.
-- No automatic threat response.
-- Requires retraining for new attack patterns.
+-   Uses offline dataset.
+-   No live packet sniffing.
+-   No automatic threat response.
+-   Requires retraining for new attack patterns.
 
 ---
 
@@ -225,6 +225,6 @@ The AI-Enhanced Intrusion Detection System demonstrates how Machine Learning can
 
 ## 👨‍💻 Developed By
 
-**Bilal Mirje**
+**Bhaskar Patil**
 
 ---
